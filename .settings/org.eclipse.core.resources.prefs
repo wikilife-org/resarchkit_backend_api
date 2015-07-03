@@ -1,0 +1,17 @@
+eclipse.preferences.version=1
+encoding//src/biz/authorization_service.py=utf-8
+encoding//src/data/daos/base_dao.py=utf-8
+encoding//src/data/daos/study_dao.py=utf-8
+encoding//src/data/daos/user_dao.py=utf-8
+encoding//src/settings.py=utf-8
+encoding//src/utils/date_utils.py=utf-8
+encoding//src/utils/parsers/date_parser.py=utf-8
+encoding//src/utils/parsers/json_parser.py=utf-8
+encoding//src/utils/settings/settings_loader.py=utf-8
+encoding//src/ws/app.py=utf-8
+encoding//src/ws/manage.py=utf-8
+encoding//src/ws/rest/authorization.py=utf-8
+encoding//src/ws/rest/base_handler.py=utf-8
+encoding//src/ws/rest/dummy.py=utf-8
+encoding//src/ws/utils/catch_exceptions.py=utf-8
+encoding//src/ws/utils/oauth.py=utf-8
